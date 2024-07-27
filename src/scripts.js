@@ -1,2 +1,2 @@
 alert("SEELAAAM!");
-alert("Hello github education!");
+alert("Hello GitHub Education!");
